@@ -1,3 +1,3 @@
 #How to use
- 1.npm install
- 2.blah blah blah
+1.npm install
+2.blah blah blah
